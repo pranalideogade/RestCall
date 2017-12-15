@@ -1,0 +1,1 @@
+include ':app', ':jackson-databind-2.9.2', ':spring-android-core-1.0.1.RELEASE', ':spring-android-rest-template-1.0.1.RELEASE', ':jackson-annotations-2.3.0', ':jackson-core-2.3.2', ':jackson-databind-2.3.2', ':junit-4.8.2'

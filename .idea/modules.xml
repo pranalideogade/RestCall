@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPLib.iml" filepath="$PROJECT_DIR$/MPLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-annotations-2.3.0/jackson-annotations-2.3.0.iml" filepath="$PROJECT_DIR$/jackson-annotations-2.3.0/jackson-annotations-2.3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-core-2.3.2/jackson-core-2.3.2.iml" filepath="$PROJECT_DIR$/jackson-core-2.3.2/jackson-core-2.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-databind-2.3.2/jackson-databind-2.3.2.iml" filepath="$PROJECT_DIR$/jackson-databind-2.3.2/jackson-databind-2.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-databind-2.9.2/jackson-databind-2.9.2.iml" filepath="$PROJECT_DIR$/jackson-databind-2.9.2/jackson-databind-2.9.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-4.8.2/junit-4.8.2.iml" filepath="$PROJECT_DIR$/junit-4.8.2/junit-4.8.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-android-core-1.0.1.RELEASE/spring-android-core-1.0.1.RELEASE.iml" filepath="$PROJECT_DIR$/spring-android-core-1.0.1.RELEASE/spring-android-core-1.0.1.RELEASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-android-rest-template-1.0.1.RELEASE/spring-android-rest-template-1.0.1.RELEASE.iml" filepath="$PROJECT_DIR$/spring-android-rest-template-1.0.1.RELEASE/spring-android-rest-template-1.0.1.RELEASE.iml" />
+    </modules>
+  </component>
+</project>
